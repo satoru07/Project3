@@ -1,0 +1,9 @@
+{
+	"name": "project3azureDF",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "306ed401-d475-471a-974f-248bad6f962c",
+		"tenantId": "f00b920c-81f7-486c-b02e-798ded6c326e"
+	}
+}
